@@ -23,19 +23,19 @@
 </div>
 <div class ="products">
     <div class ="box">
-       <img src="https: //source.unsplash.com/220×220/? prefumy?1">
+       <img src="img1.png">
        <p>loren 20 </p>
     </div>
 </div> 
 <div class ="products">
     <div class ="box">
-       <img src="https: //source.unsplash.com/220×220/? prefumy?2">
+       <img src="img 2.png">
        <p>loren 20 </p>
     </div>
 </div> 
    <div class ="products">
     <div class ="box">
-       <img src="https: //source.unsplash.com/220×220/? prefumy?3">
+       <img src="img 3.png">
        <p>loren 20 </p>
     </div>
 </div>  
