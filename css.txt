@@ -1,0 +1,107 @@
+<meta name='viewport' content='width=device-width, initial-scale=1'/><!DOCTYPE html>
+<html lang="en">
+<head>
+      <meta charset ="UTF- 8">
+      <meta name ="viewport"content="width-device-widtg,initial-scale-1.0">
+      <title>Perfumy</title>
+      <link rel ="stylesheet"href="css">
+</head>
+<body>
+    <div class ="header">
+        <nav>
+            <h1>Perfumy</h1>
+            <ul>
+                <li>Home | </li>
+                <li>Products | </li>
+                <li>About us | </li>
+                <li>Contact us | </li>
+            </ul>
+       </nav>
+   </div>
+<div class ="searchbar">
+    <input placeholder="search">
+</div>
+<div class ="products">
+    <div class ="box">
+       <img src="https: //source.unsplash.com/220×220/? prefumy?1">
+       <p>loren 20 </p>
+    </div>
+</div> 
+<div class ="products">
+    <div class ="box">
+       <img src="https: //source.unsplash.com/220×220/? prefumy?2">
+       <p>loren 20 </p>
+    </div>
+</div> 
+   <div class ="products">
+    <div class ="box">
+       <img src="https: //source.unsplash.com/220×220/? prefumy?3">
+       <p>loren 20 </p>
+    </div>
+</div>  
+<div class="about">
+    <h1 style="text-align:center;">About us</h1>       
+    <p> loren 50 </p>        
+</div>  
+<div class="contact">
+   <h4>Contact</h4>
+   <p>+91 4567328905</p>
+   <p>perfumy@gamil.com</p>
+   <p style="margin- top : 30px;font-size:10px;">loren 20</p>
+</div>
+</body>
+</html>   <style>*{
+  margin:0;
+  padding:0;
+}
+nav{
+      background color : black;
+      color: white;
+      padding:15px;
+    }
+li,h1,ul{
+  display: inline;
+} 
+ul{
+  margin-left: 60%;
+}
+li{
+  color:gray;
+  cursor:pointer;
+}  
+li:hover{
+    color: white;
+  }  
+  input{
+        width:60%;
+        padding:15px;
+      }
+.searchbar{
+        padding:50px;
+        text-align:center;
+      } 
+.box{    
+  border color:black;
+  border width:2px;
+  border style: solid;
+  display: inline block;
+  width:220px
+}
+.box: hover{
+           background color: black;
+           color: white;
+         }
+.products{
+         text align: center;
+       }  
+.about{
+      text align:center;
+      margin top:2;px;
+      padding:20px;
+    } 
+.contact{
+       background color: black;
+       color:white;
+       text align:center;
+       padfing:40px;
+     }              </style>
